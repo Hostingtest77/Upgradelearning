@@ -1,0 +1,18 @@
+.Head{
+    position: absolute;
+    background-color: aqua;  
+ 
+}
+.Hphone{
+   position: absolute;
+    right: 100px;
+}
+.Himg{
+    position: absolute;
+    float: right;
+    left: 40px;
+}
+.Hname{
+    position: absolute;
+    left: 10px;
+}
