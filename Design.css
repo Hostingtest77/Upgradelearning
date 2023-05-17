@@ -1,4 +1,7 @@
-
+*{
+    width: 100%;
+    min-height: auto;
+}
 .Head{
     position: absolute;
     background-color: aqua;  
