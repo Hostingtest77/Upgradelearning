@@ -34,11 +34,14 @@
     Padding-right: 3px;
 }
 .CBatch ol{
-   text-align: left;
+    text-align: left;
     width: 104%;
     height: 25px;
     background-color:rgb(254, 62, 62);
     font-size: 20px;
+}
+.CBatch li{
+    text-align: left;
 }
 .HListBatch{
     float: left;
