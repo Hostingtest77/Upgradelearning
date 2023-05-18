@@ -9,41 +9,38 @@
     height: 50px;
 }
 .Hphone{
-   float: right;
-    padding-right: 150px;
-    padding-top: 12px;
+   position: absolute;
+   left: 1500px;
+   top: 9px; 
     font-size: 25px;
 
 }
 .Himg{
-    float: left;
-    padding-left: 200px;
-    padding-top: 9px;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    width: 50px;
+    
 }
 .Hname{
-    float: right;
-    padding-right: 30px;
-    padding-top: 11px;
+    position: absolute;
+    left: 1350px;
+    padding-top: 9px;
     font-size: 25px;
     width: 30%;
 }
 .CBatch{
     float: left;
     padding-top: 30px;
-    Padding-right: 3px;
+    height: 300px;
+    width: 25%;
+    background-color: antiquewhite;
 }
-/* .CBatch ol{
-    text-align: left;
-    width: 104%;
-    height: 25px;
-    background-color:rgb(254, 62, 62);
-    font-size: 20px;
-}
-.CBatch li{
-    text-align: left;
-}*/
+
 .HListBatch{
     float: left;
-    padding-top: 30px;
-    Padding-right: 3px;
+    padding-top: 25px;
+    text-align: center;
+    font-size: 20px;
+    background-color: red;
 }
