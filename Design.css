@@ -44,3 +44,16 @@
     font-size: 21px;
     background-color: red;
 }
+.HSelect{
+    float: left;
+    padding-top: 50px;
+    width: 100px;
+    padding-left: 2px;
+    border: solid 2px;
+    border-color: blue;
+   
+}
+.HSelect select{
+    color: blue;
+    
+}
